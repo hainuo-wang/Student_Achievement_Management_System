@@ -1,0 +1,3 @@
+D:/project/CLion/Student_Achievement_Management_System/cmake-build-debug/CMakeFiles/Student_Achievement_Management_System.dir
+D:/project/CLion/Student_Achievement_Management_System/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/project/CLion/Student_Achievement_Management_System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
